@@ -1,0 +1,1 @@
+/media/zhewen/d/program/rust/rust-learn/src/lib-demo/target/debug/liblib_demo.rlib: /media/zhewen/d/program/rust/rust-learn/src/lib-demo/src/front_of_house.rs /media/zhewen/d/program/rust/rust-learn/src/lib-demo/src/lib.rs /media/zhewen/d/program/rust/rust-learn/src/lib-demo/src/test/mod.rs /media/zhewen/d/program/rust/rust-learn/src/lib-demo/src/test/test_host.rs
