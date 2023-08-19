@@ -17,7 +17,7 @@ use test::test_host;
 pub fn eat_at_restaurant() {
     hosting::add_to_waitlist(); // absolute
     hosting::add_to_waitlist(); // relative
-    test_host::test_host();
+    test_host::test_host(b);
 
     let _secret_num = rand::thread_rng().gen_range(1..101);
     let _dict: HashMap<String, i32> = HashMap::new();
