@@ -1,0 +1,3 @@
+*.d linguist-language=rust
+*.ll linguist-language=rust
+
